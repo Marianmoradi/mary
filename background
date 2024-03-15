@@ -12,7 +12,7 @@
       }
 
       #backgroundImage {
-        border: none;
+        border: noneffg
         height: 100%;
         pointer-events: none;
         position: fixed;
