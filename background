@@ -6,9 +6,8 @@
     <meta charset="utf-8">[vcbcvbvbvc]
 hjfhjd[jkhfhkhf]
 [dgrgzrfw SDGDBD
-        pointer-events: none;
-        position: fixed;
-        top: 0;
+        pointer-e
+        position: fix
         visibility: hidden;
         width: 100%;
       }
