@@ -6,15 +6,7 @@
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-      body {
-        background: #FFFFFF;[hkfhmfhm],bj,b
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
+      body { none;
         position: fixed;
         top: 0;
         visibility: hidden;
