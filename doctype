@@ -10,14 +10,6 @@ ERFGSBFBX
 [[JKLVJKHC]]KLGV
 [aiufhjsnd]ckjsd
 csdocnsdv[sjvbsdvjsdn'v]sdvn'sdlvjnsdv
-sdvosdi[sdvo[sdnv]sdv
-s
-sdvmsdvsdv
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
