@@ -8,22 +8,22 @@
     </style>
   </head>
   <body>
-    <iframe id="backgroundImage" src=""></iframe>
+    <iframe id="backgroundImage" src=""dfgdfg></iframe>
     <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <script type="module" src="new_tab_page.js"></script>dfgdfgdfgdf
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">dfgdfg
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html
+    <link rel="stylesheet" href="shared_vars.css">gdfgdfg
+  </body>dfgdfgdfg
+</htmldfgdfg
 <!doctype html>
-<html dir="ltr" lang="en">
+<html dir="ltr" lang="en">dfgdfgdf
   <head>
-<!doctype html>
-<html dir="ltr" lang="en">
+<!doctype html>gdfgdfgdfdfgdfg
+<html dir="ltr" lang="en">dfgdfgdfgdfgdfgdfgdf
   <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
+    <meta charset="utf-8">gdfgdfgdfg
+    <title>New Tab</title>gdfgdf
     <style>
       body {
         background: #FFFFFF;
