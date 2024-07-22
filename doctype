@@ -10,22 +10,13 @@
 <html sfar="ltr" lang="en"fsdghkgh
     chrome-refresh-2023>kgh
   <he
-    <meta charset="utf-8">
-    <title>New Tab</title>kfghkghksd
-    <style>sdf
-      body {tertertertertertreter"
-        background: #FFFFFF;fsd
-        margin: 0;ff
-      }retrter
-sdsd
-      #backgroundImage {sdf
-        height: 100%;
+    <meta charset="utf-8">kh
         pointer-events: none;
         position: fixed;
         top: 0;
         visibility: hidden;
         width: 100%;
-      }
+      }m kn
 
       [show-background-image] #backgroundImage {
         visibility: visible;
