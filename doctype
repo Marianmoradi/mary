@@ -2,21 +2,7 @@
 <!doctype html>ible;
       } href="chrome://resources/css/text_defaults_md.css">
     <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chro
-    <meta charset="utf-8">kh
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }m kn
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
+    <link rel="stylesheet" href="chrome://
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
