@@ -2,18 +2,6 @@
 <!doctype html>ible;
       } href="chrome://resources/css/text_defaults_md.css">
     <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://
-    <meta charset="utf-8">
-        background: #FFFFFF;
-        margin: 0;
-      }
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
