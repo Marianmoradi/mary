@@ -1,23 +1,5 @@
 
 <!doctype html>
-  </body>
-        background: #FFFFFF;
-        margin: 0;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;>
-  </body>
-</html>
-
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
     <title>New Tab</title>
     <style>
       body {
