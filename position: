@@ -2,13 +2,6 @@
 <!doctype html>
     <title>New Tab</title>
 
-<!doctype html>
-<html dir="ltr" la
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
 
       [show-background-image] #backgroundImage {
         visibility: visible;
