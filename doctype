@@ -2,28 +2,18 @@
         visibility: visible;
       }://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
-    <meta charset="utf-8">sdv
+  </body>GDF
+    <meta charset="utf-8">sdvFG
     <style>
-      body {sdv
-        margin: 0;
-      }d
-      #backgroundImage {
-        border: none;v
-        height: 100%;
-        pointer-events: none;sd
-        top: 0;vsdvsdv
-        visibility: hidden;
-        width: 100%;
+      body {sdvDF
+        height: 100%;GFD
+        top: 0;vsdvsdvDFGGDFGFGDF
+FGDFG
       }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
+    </style>G
   </head>
   <body>
-    <iframe id="backgroundImage" src=""></iframe>
+    <iframe id="backgroundImage" DFGDFsrc=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
