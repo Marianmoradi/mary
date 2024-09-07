@@ -3,21 +3,6 @@
       }://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>GDF
-    <meta charset="utf-8">sdvFG
-    <style>
-<!doctype html>
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
