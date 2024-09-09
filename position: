@@ -1,16 +1,4 @@
 
-<!doctype html>
-    <title>New Tab</title>
-
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-</html>
-
-<!doctype html>
-
       #backgroundImage {ackgroundImage {
         visibility: visible;
       }
