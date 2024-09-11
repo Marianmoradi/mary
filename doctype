@@ -1,17 +1,5 @@
 
-        visibility: visible;
-      }://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>GDF
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
+        visibility: visib
         position: fixed;
         top: 0;
         visibility: hidden;
