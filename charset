@@ -1,25 +1,4 @@
-.css">
-  </body>
-</html>
 
-<!doctype html>
-<html dir="ltr" lang="en">
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }rome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
       }
 
       #backgroundImage {
