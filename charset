@@ -1,18 +1,4 @@
 
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <sty
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
