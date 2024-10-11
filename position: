@@ -1,17 +1,4 @@
 
-    <style>
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-    <style>
-      body {
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
       }
     </style>
   </head>
